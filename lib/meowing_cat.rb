@@ -2,9 +2,9 @@
 class Cat 
 
 attr_accessor :name 
-maru.meow = "meow"
+meowing_cat = "meow"
 
-maru.meow
+meowing_cat.meow 
   
  
 end 
